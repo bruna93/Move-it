@@ -5,6 +5,6 @@ Aplicação de monitoramento do tempo de estudo, com uso do método pomodoro. Se
 <p>Ferramenta utilizada<p>
 <p>* ReactJS<p>
 <p>Linguagens utilizadas<p>
-<p>HTML5<p>
-<p>CSS3<p>
-<p>TypeScript<p>
+<p>* HTML5<p>
+<p>* CSS3<p>
+<p>* TypeScript<p>
